@@ -46,6 +46,3 @@ The space encapsulating the moment was beautiful - the utterly black emptiness s
 Yet all he could see were the widened eyes and other fresh cracks in a stone expression that wavered for the last time.
 
 And he felt freed.
-
-> I have made great progress with my novel.
-> <br> And out of everything I've written so far, I think this is one of the scenes I like the most.
