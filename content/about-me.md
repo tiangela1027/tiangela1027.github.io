@@ -1,5 +1,5 @@
 ---
-title: "Welcome" 
+title: "Welcome! 👋" 
 date: 2025-11-06
 tags: ["other"]
 author: "Angela Tian"
@@ -17,4 +17,4 @@ In my free time, I enjoy reading, where I'll read anything from auto-biographies
 
 I also make music, please feel free to give me a listen under my artist name [Make Night](https://linktr.ee/make.night).
 
-This section gathers pieces I've written over the years, ranging from short stories to poems. Most are works of fiction and reflect some aspect of myself through adolescence.
+Here you'll find pieces I've written over the years, ranging from short stories to poems. Most are works of fiction and reflect some aspect of myself through adolescence. Enjoy! 

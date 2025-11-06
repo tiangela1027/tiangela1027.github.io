@@ -48,15 +48,17 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Angela Tian
-          subtitle: "DevOps and Cloud Engineer, 4+ years of experience. Currently working at StackAdapt. (Music producer and avid reader on the side.)"
+          title: Angela Tian ✨
+          subtitle: "DevOps and Cloud Engineer, 4+ years of experience. Currently working at StackAdapt. (Music producer 🎶 and avid reader 📚 on the side.)"
           imageUrl: "headshot_square.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Writing
+            - name: About Me 👋
+              url: about-me
+            - name: Writing ✏️
               url: writing/
-            - name: Spotify
+            - name: Spotify 🎵
               url: https://open.spotify.com/artist/2PoxTfzVLY7IXbn2a7nGdc?si=AmVEnk0rSEiZb-wbjxh39A
 
     socialIcons:
