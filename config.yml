@@ -1,5 +1,5 @@
-baseURL: "https://pascalmichaillat.org/hugo-website/" 
-title: Moritz-Maria von Igelfeld
+baseURL: "https://tiangela1027.github.io/hugo-website" 
+title: Angela Tian
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -12,25 +12,19 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Writing
+          url: writing/
+          weight: 1
+        - name: Tags
+          url: tags/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Archive
+          url: archive/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
 
 params:
     description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    author: Angela Tian
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -43,7 +37,7 @@ params:
     ShowPostNavLinks: false
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
-    ShowAllPagesInArchive: false
+    ShowAllPagesInArchive: true
     MainSections: ["books","courses","papers","data"]
     ShowToc: false
     disableScrollToTop: true
@@ -54,50 +48,32 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
-          imageUrl: "picture.jpeg"
+          title: Angela Tian
+          subtitle: "DevOps and Cloud Engineer, 4+ years of experience. Currently working at StackAdapt. (Music producer and avid reader on the side.)"
+          imageUrl: "headshot_square.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+            - name: Writing
+              url: writing/
+            - name: Spotify
+              url: https://open.spotify.com/artist/2PoxTfzVLY7IXbn2a7nGdc?si=AmVEnk0rSEiZb-wbjxh39A
 
     socialIcons:
         - name: CV
           url: cv.pdf
-        - name: Email
-          url: mailto:igelfeld@regensburg.edu
-        - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+        - name: Linktree
+          url: https://linktr.ee/make.night
+        - name: LinkedIn
+          url: https://ca.linkedin.com/in/tiangela
         - name: GitHub
-          url: https://github.com/pmichaillat
-        - name: Substack
-          url: https://pmichaillat.substack.com
-        - name: YouTube
-          url: https://www.youtube.com/@pmichaillat
-        - name: Twitter
-          url: https://x.com/pmichaillat
-        - name: Bluesky
-          url: https://bsky.app/profile/pmichaillat.bsky.social
+          url: https://github.com/tiangela1027
+        - name: Credly
+          url: https://www.credly.com/users/angela-t/badges#credly
+        - name: Email
+          url: mailto:tiangela1@gmail.com
+        - name: Goodreads
+          url: https://www.goodreads.com/user/show/154253154-angela
 
     assets:
         disableScrollBarStyle: true
@@ -105,7 +81,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Angela Tian"
       icon: favicon.ico
       iconHeight: 18
 
